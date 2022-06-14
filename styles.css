@@ -19,10 +19,12 @@ body {
     margin: auto;
     flex: 3;
 }
-.header p {
+.header a {
     font-family: 'Cabin', Helvetica, Arial, sans-serif;
     margin: auto;
     flex: 1;
+    text-decoration: none;
+    color: white;
 }
 .mid-box {
     font-family: 'Cabin', Helvetica, Arial, sans-serif;
